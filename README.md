@@ -1,7 +1,7 @@
 
-##script to install pgadmin4 for linux :)
+# script to install pgadmin4 for linux :)
 
-##Follow the steps below in order
+# Follow the steps below in order
 
 1. sudo chmod +x pgadmin4-installer.sh
 2. sudo ./pgadmin4-installer.sh
