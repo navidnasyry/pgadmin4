@@ -3,7 +3,12 @@
 
 # Follow the steps below in order
 
+Change file permissions
+
 1. sudo chmod +x pgadmin4-installer.sh
+
+Run script
+
 2. sudo ./pgadmin4-installer.sh
 
 3. sudo pgadmin4
